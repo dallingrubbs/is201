@@ -1,0 +1,21 @@
+.small-img{
+    width: 25%;
+    border: dotted 4px darkcyan;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: darkcyan;
+background-image: url(../assets/img/Background.jpeg);
+background-size:cover;
+}
+h1{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    color: cyan;
+}
+.med-img{
+    width: 50%;
+    border: solid 3px darkcyan;
+
+}
